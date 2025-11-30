@@ -1,0 +1,5 @@
+mqtt/mqtt.py
+wifi/main_wifi_logic.py
+wifi/wifi_utils/wifi_logger.py
+main.py
+version.txt
